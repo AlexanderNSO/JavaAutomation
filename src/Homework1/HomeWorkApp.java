@@ -1,3 +1,5 @@
+package Homework1;
+
 public class HomeWorkApp {
     public static void checkSumSign(int a, int b) {
         if (a + b >= 0) {
